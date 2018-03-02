@@ -1,1 +1,1 @@
-# EMNIST Handwritten Digit Classification: Three Ways
+# EMNIST Handwritten Digit Classification Three Ways
