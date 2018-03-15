@@ -4,3 +4,6 @@ test_x.csv
 processed_x.csv
 bw_x.csv
 DataLoading-checkpoint.ipynb
+processed_test_x.csv
+predictions.csv
+.ipynb_checkpoints/
