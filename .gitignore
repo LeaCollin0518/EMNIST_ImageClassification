@@ -7,3 +7,5 @@ DataLoading-checkpoint.ipynb
 processed_test_x.csv
 predictions.csv
 .ipynb_checkpoints/
+augmented_x.csv
+augmented_y.csv
