@@ -8,6 +8,7 @@ data/bw_x.csv
 data/augmented_x.csv
 data/augmented_y.csv
 data/LogisticPredictions.csv
+data/ConvNetPredictions.csv
 
 # jupyter garbage
 DataLoading-checkpoint.ipynb
