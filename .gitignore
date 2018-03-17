@@ -3,4 +3,9 @@ train_y.csv
 test_x.csv
 processed_x.csv
 bw_x.csv
-DataLoading-checkpoint.ipynb 
+DataLoading-checkpoint.ipynb
+processed_test_x.csv
+.ipynb_checkpoints/
+augmented_x.csv
+augmented_y.csv
+LogisticPredictions.csv
