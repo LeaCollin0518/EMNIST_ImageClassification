@@ -15,3 +15,8 @@ data/ConvNetPredictions.csv
 # jupyter garbage
 DataLoading-checkpoint.ipynb
 .ipynb_checkpoints/
+
+# results garbage
+data/.~lock.Results.xlsx#
+data/Results.xlsx
+
