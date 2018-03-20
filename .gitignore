@@ -1,6 +1,6 @@
-train_x.csv
-train_y.csv
-test_x.csv
-processed_x.csv
-bw_x.csv
-DataLoading-checkpoint.ipynb 
+# don't track large data files
+data/*
+
+# jupyter garbage
+DataLoading-checkpoint.ipynb
+.ipynb_checkpoints/
