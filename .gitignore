@@ -5,6 +5,8 @@ data/test_x.csv
 data/processed_x.csv
 data/processed_test_x.csv
 data/bw_x.csv
+data/bw_rescaled_x.csv
+data/bw_rescaled_test_x.csv
 data/augmented_x.csv
 data/augmented_y.csv
 data/LogisticPredictions.csv
@@ -13,3 +15,8 @@ data/ConvNetPredictions.csv
 # jupyter garbage
 DataLoading-checkpoint.ipynb
 .ipynb_checkpoints/
+
+# results garbage
+data/.~lock.Results.xlsx#
+data/Results.xlsx
+
