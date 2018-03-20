@@ -1,4 +1,5 @@
 # don't track large data files
+<<<<<<< HEAD
 data/train_x.csv
 data/train_y.csv
 data/test_x.csv
@@ -20,3 +21,10 @@ DataLoading-checkpoint.ipynb
 data/.~lock.Results.xlsx#
 data/Results.xlsx
 
+=======
+data/*
+
+# jupyter garbage
+DataLoading-checkpoint.ipynb
+.ipynb_checkpoints
+>>>>>>> 324a2858d1b21dc24e3cffd0d4d252549a8d40c9
