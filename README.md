@@ -14,3 +14,4 @@ Check out [this report](https://docs.google.com/document/d/1mtDkIJKRnIvzvoUacq2a
 * Run any of the LogisticRegression.ipynb, NeuralNet.ipynb, and ConvNet.ipynb files in jupyter notebook
 	* You should be able to press play in the jupyter notebook and have the code run
 	* Each program prints the performance on the validation set and the LogisitcRegression.ipynb and ConvNet.ipynb files produce predicts for the processed test dataset
+	* Predictions are stored in either "data/LogisitcPredictions.csv" or "data/ConvNetPrediction#.csv" where # is either nothing, 2, or 3
