@@ -6,4 +6,4 @@ data/*
 .ipynb_checkpoints/NeuralNet-checkpoint.ipynb
 
 #report
-KaggleReport.pdf
+report.pdf
