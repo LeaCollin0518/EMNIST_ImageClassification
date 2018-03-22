@@ -2,7 +2,7 @@
 
 ## Brief Outline of Repo Contents
 
-This repo contains code related to [this kaggle competition]().
+This repo contains code related to [this kaggle competition](https://www.kaggle.com/c/comp551w18-modified-mnist).
 
 This repo contains exclusively data and `.ipynb` files for processing, training, and predicting on that data.  Specifically, there is:
 
