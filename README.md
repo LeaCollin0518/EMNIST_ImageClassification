@@ -23,7 +23,7 @@ This repo contains exclusively data and `.ipynb` files for processing, training,
 3. Run any of the `LogisticRegression.ipynb`, `NeuralNet.ipynb`, and `ConvNet.ipynb` files in jupyter notebook
 	* You should be able to press play in the jupyter notebook and have the code run
 	* Each program prints the performance on the validation set and the `LogisitcRegression.ipynb` and `ConvNet.ipynb` files produce predicts for the processed test dataset
-	* Predictions are stored in `data/LogisitcPredictions.csv`, `data/ConvNetPrediction.csv`, `data/ConvNetPrediction2.csv`, or `data/ConvNetPrediction3.csv` (3 ConvNets were used for predicting on the test set)
+	* Predictions are stored in `data/LogisitcPredictions.csv`, `data/ConvNetPrediction.csv`, `data/ConvNetPrediction2.csv`, and `data/ConvNetPrediction3.csv` (3 ConvNets were used for predicting on the test set)
 
 -----------------------
 Check out [this report](https://docs.google.com/document/d/1mtDkIJKRnIvzvoUacq2aG6XGfabagbM0i5N6rloQO1Q/edit?usp=sharing) outlining the work in this repo.
