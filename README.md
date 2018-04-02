@@ -6,7 +6,7 @@ This repo contains code related to [this kaggle competition](https://www.kaggle.
 
 This repo contains exclusively data and `.ipynb` files for processing, training, and predicting on that data.  Specifically, there is:
 
-* The `data` folder.  This is where all the data is mean to be.
+* The `data` folder.  This is where all the data is meant to be.
 * `PreProcessing.ipynb`, which contains code that takes the initial dataset and produces a dataset that is ready to be fed to the learning algorithms in this repo.
 * `ConvNet.ipynb`, which contains the code for loading data and running a few different Keras CNNs.
 * `LogisticRegression.ipynb`, same but for sklearn Logistic Regression.
@@ -26,4 +26,4 @@ This repo contains exclusively data and `.ipynb` files for processing, training,
 	* Predictions are stored in either "data/LogisitcPredictions.csv" or "data/ConvNetPrediction#.csv" where # is either nothing, 2, or 3
 
 -----------------------
-Check out [this report](https://docs.google.com/document/d/1mtDkIJKRnIvzvoUacq2aG6XGfabagbM0i5N6rloQO1Q/edit) outlining the work in this repo.
+Check out [this report](https://docs.google.com/document/d/1mtDkIJKRnIvzvoUacq2aG6XGfabagbM0i5N6rloQO1Q/edit?usp=sharing) outlining the work in this repo.
